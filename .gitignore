@@ -1,0 +1,59 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore environment files
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled code or build folders
+/dist/
+/build/
+
+# Ignore all .zip files
+*.zip
+
+# Ignore all .json files
+*.json
+*.jsonl
+
+# Ignore specific folders
+/models/baseline_4/
+/models/ft_topic_5/
+/results/baseline_4/
+/results/ft_topic_5/
+/results/baseline_4_test_200/   
+/results/bertopic_test_1600/
+/results/baseline_4_hr/         
+/results/baseline_4_test_2000/  
+/results/bertopic_test_1800/
+/results/baseline_4_hr_tr/      
+/results/baseline_4_test_400/   
+/results/bertopic_test_200/
+/results/baseline_4_long/       
+/results/baseline_4_test_600/   
+/results/bertopic_test_2000/
+/results/baseline_4_test/       
+/results/baseline_4_test_800/   
+/results/bertopic_test_400/
+/results/baseline_4_test_1000/  
+/results/bertopic_long/         
+/results/bertopic_test_600/
+/results/baseline_4_test_1200/  
+/results/bertopic_test/         
+/results/bertopic_test_800/
+/results/baseline_4_test_1400/  
+/results/bertopic_test_1000/    
+/results/baseline_4_test_1600/  
+/results/bertopic_test_1200/    
+/results/baseline_4_test_1800/  
+/results/bertopic_test_1400/
